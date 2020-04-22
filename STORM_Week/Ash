@@ -1,0 +1,18 @@
+Import
+
+
+if __name__ == "__main__":
+  get files
+    loop over files
+      filter image
+      threshold image
+      region props
+  save
+  filter region
+    loop over data frame
+      cut out
+      fit
+      save
+  plot x, y,    
+  
+      
